@@ -1,0 +1,13 @@
+{
+    "name": "karadalex/rabbitmq-playground-php",
+    "type": "project",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.8"
+    },
+    "authors": [
+        {
+            "name": "Alexios Karadimos",
+            "email": "karadalex@gmail.com"
+        }
+    ]
+}
